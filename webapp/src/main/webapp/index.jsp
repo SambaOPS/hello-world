@@ -20,7 +20,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw"><b>IPSO</b></label>
+    <label for="psw"><b>IPSO2</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
