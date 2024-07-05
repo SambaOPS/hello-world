@@ -36,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> SAMBA  </h1>
+   <h1> SAMBA DevOPS </h1>
 
   
 </form>
